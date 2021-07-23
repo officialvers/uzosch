@@ -1,0 +1,29 @@
+@charset "UTF-8";
+nav{
+background:rgba(33,33,33,0.75);
+width:100%;
+height:30px
+padding-top:10px;
+position:fixed;
+}
+a{
+text-decoration:none;
+color:#FEEEFF;
+padding:20px;
+font-size:20px;
+}
+body{
+background:#015BA6;
+color:aliceblue;
+text-align:center;
+}
+article{
+padding:50px 10px 10px 10px;
+text-align:justify;
+}
+img{
+width:30%;
+}
+article img{
+width:100%;
+}
